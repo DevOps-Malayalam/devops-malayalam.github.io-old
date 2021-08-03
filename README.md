@@ -1,8 +1,43 @@
-## Welcome to GitHub Pages
+# DevOps Malayalam
+
+
+
+## DevOps Certification[Beginner]
+_14 July 2021_
+
+
+
+### Key Takeaways
+
+
+Certification helps to learn systematically and gives clear idea about the concepts <br> 
+RedHat Certification <br>
+RHCE Certification better for beginners <br>
+For Sysadmin roles <br>
+Ansible is included now <br>
+Certification is hands-on so companies give priority for redhat <br>
+Docker Certifications <br>
+Docker Certified Associate - Intro to docker, MCQ based, 70 to pass <br>
+Kubernetes Certification <br>
+3 Certifications <br>
+CKA - Hands-on, 3 year valid <br>
+CKAD - Developer View (Configuration), 3 year valid <br>
+CKS - Security related, need valid CKA,  2 years validity <br>
+AWS Certification <br>
+AWS ReSkill Platform <br> 
+3 levels + Cloud Practitioner (Entry levels for a fresher) <br>
+Associate Level(3 certification) <br>
+Professional Level (2 certification) <br>
+Specialist Certification <br>
+Azure Certification <br>
+3 Levels of certification <br>
+White papers - AWS WhitePapers are great resource which helps us in certifications  <br>
+YAML - Knowledge in YAML is in high demand <br>
+Python - Having knowledge in Python is helpful <br>
+
 
 You can use the [editor on GitHub](https://github.com/DevOps-Malayalam/devops-malayalam.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
